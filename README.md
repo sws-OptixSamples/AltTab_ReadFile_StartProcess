@@ -1,7 +1,9 @@
 # AltTab_ReadFile_StartProcess
 
-Sample project to demonstrate how Optix can simulate Windows keyboard strokes to perform a common function like "Alt-Tag" to switch between open applications within a Windows OS.  
+Sample project to demonstrate how Optix can simulate Windows keyboard strokes to perform a common function like "Alt-Tag" to switch between open applications within a Windows OS.
+
 The project also reads a text file from Windows\Temp via NetLogic and puts each line into the Info.Log to demonstrate how you could read lines for other functions/methods in NetLogic.
+
 Finally, there is a simple method that opens the Windows calculator by calling Process.Start.
 
 ![runtimeExampleImage](ProjectFiles/runtimeExampleImage.png)
